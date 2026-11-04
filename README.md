@@ -1,1 +1,1 @@
-# avtomaster.
+# avtomaster
